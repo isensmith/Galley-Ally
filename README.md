@@ -13,3 +13,4 @@
 * side-by-side screens for ingredients and directions
 * tap ingredients to cross out
 * voice control to read next step aloud
+* send recipes to other users
