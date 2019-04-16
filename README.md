@@ -6,7 +6,7 @@
 * categories, sub categories, tags
 * notes about cooking attempts and adjustments
 * quick buttons for entering measurements
-* one input per ingreient
+* one input per ingredient
 * add instruction blocks between ingredients
 * extra optional check box for 'measured'
 * recipe display has text enlarge buttons
