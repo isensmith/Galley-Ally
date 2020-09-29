@@ -1,6 +1,4 @@
-# Galley Ally
-
-...is a terrible name and that's why i like it.
+# Tinkr
 
 * manually add recipes
 * categories, sub categories, tags
